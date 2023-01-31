@@ -4,6 +4,3 @@ Customer Application:
  Ruby: 2.5.1
 
  Heroku URL: http://account-omniapp.herokuapp.com/
-
- Updated
-
